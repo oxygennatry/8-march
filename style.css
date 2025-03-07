@@ -27,12 +27,43 @@ p {
 }
 
 img {
+    margin:  10px 0 ;
     border-radius: 15px;
 }
 
 span{
     margin: 30px;
 }
+
+a {
+    width: 370px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+
+
+  }
+
+  .photo{
+    padding: 12px 20px;
+    background: linear-gradient(135deg, #293662, #ff2e63);
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+
+  }
+  
+  
+
+
+
+
+
+
+
+
+
+
 @media (max-width: 600px) {
     body {
         padding: 10px;
