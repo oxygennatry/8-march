@@ -29,6 +29,7 @@ p {
 img {
     margin:  10px 0 ;
     border-radius: 15px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
 }
 
 span{
