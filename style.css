@@ -27,7 +27,7 @@ p {
 }
 
 img {
-    margin:  20px 0 ;
+    margin:  10px 0 ;
     border-radius: 15px;
 }
 
@@ -37,7 +37,6 @@ span{
 
 a {
     display: inline-block;
-    width: 100%;
     font-size: 18px;
     font-weight: bold;
     color: white;
@@ -47,7 +46,8 @@ a {
   }
 
   .photo{
-    display: inline-block;
+    margin: auto;
+    max-width: 600px;
     padding: 12px 20px;
     background: linear-gradient(135deg, #293662, #ff2e63);
     border-radius: 15px;
